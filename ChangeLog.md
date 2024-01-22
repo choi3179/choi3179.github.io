@@ -7,4 +7,7 @@
 - [x] search-console
 
 ### 0.3.0
-- [ ] naver-searchadvisor
+- [x] naver-searchadvisor
+
+### 0.4.0
+- [ ] [SEO-NAVER](https://github.com/choi3179/choi3179.github.io/issues/5)
