@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "choi3179-b773",
+    "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
