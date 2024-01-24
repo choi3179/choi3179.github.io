@@ -18,6 +18,22 @@ h1 {
     margin-bottom: 0;
 }
 
+.profile_content {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .profile_img {
+        background-color: #EEEEEE;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 230px;
+        height: 304px;
+    }
+}
+
 h3 {
     font-size: 18px;
 }
@@ -52,19 +68,24 @@ a {
 
 article {
     background-color: #fff;
-    padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 section {
     margin-bottom: 20px;
+    
+    div {
+        padding-top: 20px;
+    }
 }
 
 h3 {
     font-size: 16px;
 }
 
-p {
-    margin-bottom: 10px;
+hr {
+    border: 1px solid #333333;
 }
 
 footer {
