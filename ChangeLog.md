@@ -19,4 +19,7 @@
 - [x] firebase & deploy dev STG
 
 ### 0.7.0
-- [ ] study CSS
+- [x] study CSS
+
+### 0.8.0
+- [ ] resume.html css custom
