@@ -16,4 +16,7 @@
 - [x] [SEO-NAVER-mod](https://github.com/choi3179/choi3179.github.io/issues/5)
 
 ### 0.6.0
-- [ ] firebase & deploy dev STG
+- [x] firebase & deploy dev STG
+
+### 0.7.0
+- [ ] study CSS
