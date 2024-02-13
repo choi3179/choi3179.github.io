@@ -22,4 +22,7 @@
 - [x] study CSS
 
 ### 0.8.0
-- [ ] resume.html css custom
+- [x] resume.html css custom
+
+### 0.9.0
+- [] push docker hub

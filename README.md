@@ -34,6 +34,11 @@ Project Console: https://console.firebase.google.com/project/html5-standard/over
 Hosting URL: https://choi3179-b773.web.app
 ```
 
+### Docker Pull Command
+``` bash
+$ docker pull choi3179/blog
+```
+
 ### Design Template
 - https://html5up.net/paradigm-shift
 
