@@ -25,4 +25,5 @@
 - [x] resume.html css custom
 
 ### 0.9.0
+- [] copy html to docker container
 - [] push docker hub
