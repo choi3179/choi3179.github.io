@@ -1,0 +1,23 @@
+# fly.toml app configuration file generated for choi3179-github-io on 2024-02-14T15:09:56+09:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'choi3179-github-io'
+primary_region = 'nrt'
+
+[build]
+  image = 'choi3179/blog:0.1.0'
+[env]
+  PORT = '8080'
+
+[http_service]
+  internal_port = 80
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ['app']
+
+[[vm]]
+  size = 'shared-cpu-1x'
