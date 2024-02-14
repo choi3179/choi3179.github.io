@@ -26,4 +26,4 @@
 
 ### 0.9.0
 - [x] push docker hub
-- [] deploy fly.io
+- [x] deploy fly.io
