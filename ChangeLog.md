@@ -27,3 +27,6 @@
 ### 0.9.0
 - [x] push docker hub
 - [x] deploy fly.io
+
+### 240215.1
+- [ ] make Dockerfile
