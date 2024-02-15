@@ -29,18 +29,21 @@
 - [x] deploy fly.io
 
 ### 240215.1
-- [ ] make Dockerfile
+- [x] make Dockerfile
 
 ### 240215.2
-- [ ] fly deploy using user Dockerfile
+- [x] fly deploy using user Dockerfile
 
 ### 240215.3
-- [ ] copy
+- [x] copy
 
 ### 240215.4
-- [ ] git
+- [x] git
 
 ### 240215.5
-- [ ] pull.sh
-- [ ] cronjob
+- [x] pull.sh
+- [x] cronjob
 
+### 240216.1
+- [ ] vhost
+- [ ] Dockerfile
