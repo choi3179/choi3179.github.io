@@ -4,3 +4,4 @@ ChangeLog.md
 README.md
 LICENSE.txt
 firebase.json
+Dockerfile.fly
