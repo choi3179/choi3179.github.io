@@ -1,2 +1,2 @@
 #!/bin/bash
-date >> home/choi/code/choi3179.github.io/logfile.txt
+date >> /home/choi/code/choi3179.github.io/logfile.txt
