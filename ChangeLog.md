@@ -30,3 +30,7 @@
 
 ### 240215.1
 - [ ] make Dockerfile
+
+### 240215.2
+- [ ] fly deploy using user Dockerfile
+
