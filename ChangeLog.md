@@ -34,3 +34,13 @@
 ### 240215.2
 - [ ] fly deploy using user Dockerfile
 
+### 240215.3
+- [ ] copy
+
+### 240215.4
+- [ ] git
+
+### 240215.5
+- [ ] pull.sh
+- [ ] cronjob
+

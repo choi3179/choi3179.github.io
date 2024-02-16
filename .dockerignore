@@ -1,5 +1,7 @@
 fly.toml
 Dockerfile
-.dockerignore
-node_modules
-.git
+ChangeLog.md
+README.md
+LICENSE.txt
+firebase.json
+Dockerfile.fly
